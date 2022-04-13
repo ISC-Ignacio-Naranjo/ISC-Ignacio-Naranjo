@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ISC-Ignacio-Naranjo/ISC-Ignacio-Naranjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,15 +14,16 @@ Here are some ideas to get you started:
 -->
 
 
-
 <h1 align="center">Hi 👋, I'm Jose Ignacio Naranjo</h1>
 <h3 align="center">Computer System Engineer with more that 5 years experience in IT , I'd been working as Production
     support Engineer, QA and currently I'm working a Software Dev.</h3>
 
-- 🔭 I’m currently working on **Java backend projects**
-
-- 📫 How to reach me **joseignacio.naranjoguerra@gmail.com**
-
+    - 🔭 I’m currently working on **Java backend projects**
+    - 🌱 I’m currently Improviming my skills  **Full Stack**
+    - 👯 I’m looking to collaborate on ** Some IT Comunity ** 
+    - 📫 How to reach me: **joseignacio.naranjoguerra@gmail.com**
+    - 😄 Pronouns: He/His 
+    
 - 📄 Know about my experiences
 [https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/](https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/)
 
