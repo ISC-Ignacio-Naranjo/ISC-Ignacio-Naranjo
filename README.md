@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     support Engineer, QA and currently I'm working a Software Dev.</h3>
 
     - 🔭 I’m currently working on **Java backend projects**
-    - 🌱 I’m currently Improviming my skills  **Full Stack**
+    - 🌱 I’m currently Improviming skills  **Full Stack**
     - 👯 I’m looking to collaborate on ** Some IT Comunity ** 
     - 📫 How to reach me: **joseignacio.naranjoguerra@gmail.com**
     - 😄 Pronouns: He/His 
