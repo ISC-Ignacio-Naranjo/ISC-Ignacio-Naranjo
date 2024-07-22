@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Jose Ignacio Naranjo</h1>
-<h3 align="center">Computer System Engineer, Has been working in IT area since 2017, Who also performed different roles like Java Backend Developer, Java Software Engineer, Senior Software Engineer in Test covering a role as Tech lead.</h3>
+<h3 align="center">Highly skilled Java developer with 7+ years of experience in IT area, designing and implementing robust backend solutions for web applications. Proficient in Spring Framework, Hibernate, and RESTful API development. Adept at problem-solving and collaborating with cross-functional teams to deliver high-quality software solutions. Seeking to leverage my expertise in Java backend development to contribute to innovative projects.
+.</h3>
 
 - 🔭 I’m currently working on **Java backend projects**
 - 🌱 I’m currently Improviming my  **Full Stack** skills
