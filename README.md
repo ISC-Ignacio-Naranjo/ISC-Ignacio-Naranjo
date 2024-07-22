@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Java backend projects**
 - 🌱 I’m currently Improviming my  **Full Stack** skills
 - 👯 I’m looking to collaborate on **Some IT community** 
-- 📫 How to reach me: **joseignacio.naranjoguerra@gmail.com**
+- 📫 How to reach me: **naranjoguerraji@hotmail.com**
 - 😄 Pronouns: He/His 
 
 <h3 align="left">Connect with me:</h3>
