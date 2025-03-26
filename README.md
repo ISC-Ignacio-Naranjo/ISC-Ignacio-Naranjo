@@ -1,87 +1,90 @@
-<!--
-**ISC-Ignacio-Naranjo/ISC-Ignacio-Naranjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Jose Ignacio Naranjo
 
-Here are some ideas to get you started:
+### 💻 Java Backend Developer | 7+ years of experience | Microservices | Cloud | DevOps | Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Highly skilled Java developer with **7+ years of experience** in IT, designing and implementing scalable and robust **backend solutions** for enterprise web applications. Proficient in **Java 21**, **Spring Boot**, **Spring Security**, and **RESTful APIs**, with hands-on experience in **microservices**, **Kafka**, and **MongoDB**. Adept at integrating DevOps practices using **GitHub Actions**, **Docker**, **Kubernetes**, and deploying to **Microsoft Azure**.
+
+Experienced in **unit testing** with **JUnit**, **Mockito**, and **test automation** using **Selenium** and **Cucumber**. Proven ability to collaborate in **Agile/Scrum environments**, working with cross-functional and international teams from the **USA and India**.
+
+---
+
+### 🚀 Currently working on:
+- ⚒️ Improving backend services with **Java 21 + Spring Boot**
+- 🌿 Expanding my **Full Stack** and **Cloud DevOps** skills
+- 🤝 Collaborating in **international agile teams**
+
+---
+
+### 📫 Connect with me: 
+[![Outlook](https://img.shields.io/badge/Email-Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jnaranjoguerraji@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/)
 
 
+---
 
-<h1 align="center">Hi 👋, I'm Jose Ignacio Naranjo</h1>
-<h3 align="center">Highly skilled Java developer with 7+ years of experience in IT area, designing and implementing robust backend solutions for web applications. Proficient in Spring Framework, Hibernate, and RESTful API development. Adept at problem-solving and collaborating with cross-functional teams to deliver high-quality software solutions. Seeking to leverage my expertise in Java backend development to contribute to innovative projects.
-.</h3>
+### 🧰 Languages and Tools:
 
-- 🔭 I’m currently working on **Java backend projects**
-- 🌱 I’m currently Improviming my  **Full Stack** skills
-- 👯 I’m looking to collaborate on **Some IT community** 
-- 📫 How to reach me: **naranjoguerraji@hotmail.com**
-- 😄 Pronouns: He/His 
+**Programming & Backend**  
+- Java 21 (Advanced, 7y)  
+- Java 11 (Intermediate, 3y)  
+- Java 8 (Advanced, 4y)  
+- Spring Boot / MVC / Security / Data (Advanced, 5y / 4y / 4y / <1y)  
+- Microservices (Advanced, 5y)  
+- REST API Development (Advanced, 2y)  
+- Hibernate (Intermediate, 3y)  
+- JDBC (Intermediate, 3y)  
+- SQL (Advanced, 4y)  
+- MongoDB (Intermediate, 2y)  
+- PostgreSQL / MySQL (Intermediate, 2y)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/" height="30" width="40" /></a>
-</p> 
+**Testing**  
+- JUnit 5 (Advanced, 3y)  
+- Mockito (Advanced, 3y)  
+- Selenium WebDriver (Novice, <1y)  
+- Cucumber (Novice, <1y)  
+- Apache JMeter (Intermediate, 1y)  
 
-<h3 align="left">Languages and Tools:</h3>
+**DevOps & Cloud**  
+- Microsoft Azure Cloud / Storage (Intermediate, 3y)  
+- Azure DevOps Board (Intermediate, 3y)  
+- GitHub Actions (Intermediate, 3y)  
+- Docker (Intermediate, 3y)  
+- Kubernetes (Intermediate, 3y)  
+- Rancher (Intermediate, current)  
+- Jenkins (Intermediate, 3y - 1y ago)  
+- AWS (Basic, <1y)  
 
-<p align="left">  
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img 
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-             alt="java" width="40" height="40" /> </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
-            alt="spring" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-             alt="git" width="40" height="40" /> </a>  
-    <a href="https://www.jenkins.io" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"
-            height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server"
-        target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-            alt="mssql" width="40" height="40" /> </a> 
-    <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> 
-    <a href="https://www.postgresql.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
-            alt="arduino" width="40" height="40" /> </a> 
-</p>
+**Monitoring & Logging**  
+- Mezmo / LogDNA (Intermediate, current)  
+- Dynatrace (Intermediate, current)  
+
+**Tools & Utilities**  
+- Postman (Advanced, 4y)  
+- Apache Maven (Intermediate, 3y)  
+- Gradle (Intermediate, <1y)  
+- GitHub (Intermediate, 3y)  
+- Bitbucket (Intermediate, 1y - 4y ago)  
+- Swagger (Advanced, <1y - 3y ago)  
+- Jira (Advanced, 2y - 4y ago)  
+- Zephyr (Intermediate, 1y - 4y ago)  
+- ServiceNow / ITRS Geneos (Intermediate, 2y - 6y ago)  
+
+**Others**  
+- UML Diagrams (Intermediate, 5y)  
+- Web Applications (Advanced, 2y - 4y ago)  
+- Mainframe Systems (Intermediate, 3y - 5y ago)  
+- Linux (Novice, 2y - 6y ago)  
+- Python (Novice, current)  
+- Jupyter / IBM Watson Studio (Novice, current)  
+- Data Engineering / Analysis / Visualization (Novice, current)  
+
+**Methodologies & Architecture**  
+- Scrum Framework (Advanced, 5y)  
+- Agile Methodology (Intermediate, 3y)  
+- SDLC (Intermediate, 1y)  
+- NFRs / System Design / Architecture (Intermediate, 3y)  
+- DevOps Fundamentals / Design Patterns (Intermediate, 3y)
+
+---
+
+### 👤 Pronouns: He/Him
