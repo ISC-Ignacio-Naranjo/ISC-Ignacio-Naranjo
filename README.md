@@ -1,10 +1,10 @@
 # Hi 👋, I'm Jose Ignacio Naranjo
 
-### 💻 Java Backend Developer | 7+ years of experience | Microservices | Cloud | DevOps | Agile
+### 💻 Java Backend Developer | 7+ years of experience | Microservices | Cloud | DevOps | Agile | Learning Data Science
 
 Highly skilled Java developer with **7+ years of experience** in IT, designing and implementing scalable and robust **backend solutions** for enterprise web applications. Proficient in **Java 21**, **Spring Boot**, **Spring Security**, and **RESTful APIs**, with hands-on experience in **microservices**, **Kafka**, and **MongoDB**. Adept at integrating DevOps practices using **GitHub Actions**, **Docker**, **Kubernetes**, and deploying to **Microsoft Azure**.
 
-Experienced in **unit testing** with **JUnit**, **Mockito**, and **test automation** using **Selenium** and **Cucumber**. Proven ability to collaborate in **Agile/Scrum environments**, working with cross-functional and international teams from the **USA and India**.
+Experienced in **unit testing** with **JUnit**, **Mockito**, and **test automation** using **Selenium** and **Cucumber**. Proven ability to collaborate in **Agile/Scrum environments**, working with cross-functional and international teams from the **USA, India and LATAM**.
 
 ---
 
@@ -12,15 +12,15 @@ Experienced in **unit testing** with **JUnit**, **Mockito**, and **test automati
 - ⚒️ Improving backend services with **Java 21 + Spring Boot**
 - 🌿 Expanding my **Full Stack** and **Cloud DevOps** skills
 - 🤝 Collaborating in **international agile teams**
+- 📊 Learning and exploring **Data Science** topics including Python, Jupyter, Pandas, scikit-learn, and data analysis techniques
 
 ---
 
-### 📫 Connect with me:  
- 
-📧 Email: `naranjoguerraji@hotmail.com`
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/)
+### 📫 Connect with me:
 
+📧 **Email:** `jose.naranjo@example.com`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
 
 ---
 
@@ -90,3 +90,19 @@ Experienced in **unit testing** with **JUnit**, **Mockito**, and **test automati
 ---
 
 ### 👤 Pronouns: He/Him
+
+---
+
+### 🧪 Projects
+
+**🟩 Market Price Estimator for Lemon Production (WIP)**  
+Building a predictive model using Python, Pandas, and scikit-learn to estimate lemon prices based on historical trends and regional market data.
+
+**🌿 Lemon Disease Detection with Computer Vision (Prototype)**  
+Image classification model using a custom dataset captured with a Xiaomi 11T Pro. Tools: OpenCV, TensorFlow, and Jupyter.
+
+**☁️ Backend Microservice Refactor**  
+Led a migration project to upgrade legacy microservices to Java 21 and Spring Boot with containerized deployments using Docker and Kubernetes in Azure.
+
+**📊 Data Cleaning and Visualization with Pandas**  
+Exploratory Data Analysis (EDA) on agricultural datasets. Cleaned, transformed, and visualized key metrics using Pandas and Matplotlib.
