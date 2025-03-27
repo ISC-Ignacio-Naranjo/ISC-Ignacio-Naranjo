@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Jose Ignacio Naranjo 
+# Hi 👋, I'm Ignacio Naranjo 
 ### 👤 Pronouns: He/Him
 
 ### 💻 Java Backend Engineer | 7+ Years Experience | Cloud-Native Architectures | DevOps Enthusiast | Aspiring Data Scientist
