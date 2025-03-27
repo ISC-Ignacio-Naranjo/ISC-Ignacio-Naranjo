@@ -15,8 +15,10 @@ Experienced in **unit testing** with **JUnit**, **Mockito**, and **test automati
 
 ---
 
-### 📫 Connect with me: 
-[![Outlook](https://img.shields.io/badge/Email-Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jnaranjoguerraji@hotmail.com)
+### 📫 Connect with me:  
+ 
+📧 Email: `naranjoguerraji@hotmail.com`
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/)
 
 
