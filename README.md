@@ -17,12 +17,20 @@ I'm a passionate backend engineer specializing in Java and Spring Boot, with a s
 ---
 
 
-### 📫 Connect with me
+### 📫 Connect with me 
+[![Resume](https://img.shields.io/badge/Download%20My%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./IgnacioNaranjoCv_JavaBackendDev03_2025.pdf)
 
 📧 **Email:** `naranjoguerraji@hotmail.com`  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/)
 
 
+
+### 🏅 Certifications
+
+
+![Enterprise Data Science in Practice](https://img.shields.io/badge/Enterprise%20Data%20Science-in%20Practice-0A66C2?style=for-the-badge&logo=data)
+![Data Analysis Using Python](https://img.shields.io/badge/Data%20Analysis-Using%20Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![ENG-001](https://img.shields.io/badge/General%20English%20Course-Mexico%20Summer%202022-007396?style=for-the-badge&logo=bookstack)
 
 ### 📚  Skill & Toolset Overview
 
@@ -108,3 +116,5 @@ Led a migration project to upgrade legacy microservices to Java 21 and Spring Bo
 
 **📊 Data Cleaning and Visualization with Pandas**  
 Exploratory Data Analysis (EDA) on agricultural datasets. Cleaned, transformed, and visualized key metrics using Pandas and Matplotlib.
+
+
