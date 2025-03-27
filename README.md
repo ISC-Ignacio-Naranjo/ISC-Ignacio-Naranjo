@@ -1,10 +1,10 @@
-# Hi 👋, I'm Jose Ignacio Naranjo
 
-### 💻 Java Backend Developer | 7+ years of experience | Microservices | Cloud | DevOps | Agile | Learning Data Science
+# Hi 👋, I'm Jose Ignacio Naranjo 
+### 👤 Pronouns: He/Him
 
-Highly skilled Java developer with **7+ years of experience** in IT, designing and implementing scalable and robust **backend solutions** for enterprise web applications. Proficient in **Java 21**, **Spring Boot**, **Spring Security**, and **RESTful APIs**, with hands-on experience in **microservices**, **Kafka**, and **MongoDB**. Adept at integrating DevOps practices using **GitHub Actions**, **Docker**, **Kubernetes**, and deploying to **Microsoft Azure**.
+### 💼 Java Backend Engineer | 7+ Years Experience | Cloud-Native Architectures | DevOps Enthusiast | Aspiring Data Scientist
 
-Experienced in **unit testing** with **JUnit**, **Mockito**, and **test automation** using **Selenium** and **Cucumber**. Proven ability to collaborate in **Agile/Scrum environments**, working with cross-functional and international teams from the **USA, India and LATAM**.
+I'm a passionate backend engineer specializing in Java and Spring Boot, with a strong focus on designing resilient microservices and cloud-native applications. I thrive in agile, multicultural teams and continuously expand my knowledge into data science, automation, and DevOps practices.
 
 ---
 
@@ -16,82 +16,84 @@ Experienced in **unit testing** with **JUnit**, **Mockito**, and **test automati
 
 ---
 
-### 📫 Connect with me:
 
-📧 **Email:** `jose.naranjo@example.com`
+### 📫 Connect with me
 
+📧 **Email:** `jose.naranjo@example.com`  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
 
----
 
-### 🧰 Languages and Tools:
+
+### 📚  Skill & Toolset Overview
 
 **Programming & Backend**  
-- Java 21 (Advanced, 7y)  
-- Java 11 (Intermediate, 3y)  
-- Java 8 (Advanced, 4y)  
-- Spring Boot / MVC / Security / Data (Advanced, 5y / 4y / 4y / <1y)  
-- Microservices (Advanced, 5y)  
-- REST API Development (Advanced, 2y)  
-- Hibernate (Intermediate, 3y)  
-- JDBC (Intermediate, 3y)  
-- SQL (Advanced, 4y)  
-- MongoDB (Intermediate, 2y)  
-- PostgreSQL / MySQL (Intermediate, 2y)  
+![Java](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=java&logoColor=white)
 
 **Testing**  
-- JUnit 5 (Advanced, 3y)  
-- Mockito (Advanced, 3y)  
-- Selenium WebDriver (Novice, <1y)  
-- Cucumber (Novice, <1y)  
-- Apache JMeter (Intermediate, 1y)  
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 **DevOps & Cloud**  
-- Microsoft Azure Cloud / Storage (Intermediate, 3y)  
-- Azure DevOps Board (Intermediate, 3y)  
-- GitHub Actions (Intermediate, 3y)  
-- Docker (Intermediate, 3y)  
-- Kubernetes (Intermediate, 3y)  
-- Rancher (Intermediate, current)  
-- Jenkins (Intermediate, 3y - 1y ago)  
-- AWS (Basic, <1y)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Monitoring & Logging**  
-- Mezmo / LogDNA (Intermediate, current)  
-- Dynatrace (Intermediate, current)  
+![Mezmo](https://img.shields.io/badge/Mezmo-FF4B4B?style=for-the-badge&logo=logdna&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 
 **Tools & Utilities**  
-- Postman (Advanced, 4y)  
-- Apache Maven (Intermediate, 3y)  
-- Gradle (Intermediate, <1y)  
-- GitHub (Intermediate, 3y)  
-- Bitbucket (Intermediate, 1y - 4y ago)  
-- Swagger (Advanced, <1y - 3y ago)  
-- Jira (Advanced, 2y - 4y ago)  
-- Zephyr (Intermediate, 1y - 4y ago)  
-- ServiceNow / ITRS Geneos (Intermediate, 2y - 6y ago)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-2F80ED?style=for-the-badge&logo=zephyr&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1C9A42?style=for-the-badge&logo=servicenow&logoColor=white)
+![ITRS Geneos](https://img.shields.io/badge/ITRS_Geneos-0A0A0A?style=for-the-badge)
 
 **Others**  
-- UML Diagrams (Intermediate, 5y)  
-- Web Applications (Advanced, 2y - 4y ago)  
-- Mainframe Systems (Intermediate, 3y - 5y ago)  
-- Linux (Novice, 2y - 6y ago)  
-- Python (Novice, current)  
-- Jupyter / IBM Watson Studio (Novice, current)  
-- Data Engineering / Analysis / Visualization (Novice, current)  
+![UML](https://img.shields.io/badge/UML_Diagrams-6E4C13?style=for-the-badge)
+![Web Applications](https://img.shields.io/badge/Web_Applications-007396?style=for-the-badge)
+![Mainframe](https://img.shields.io/badge/Mainframe_Systems-444444?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Data Science (Learning)**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Methodologies & Architecture**  
-- Scrum Framework (Advanced, 5y)  
-- Agile Methodology (Intermediate, 3y)  
-- SDLC (Intermediate, 1y)  
-- NFRs / System Design / Architecture (Intermediate, 3y)  
-- DevOps Fundamentals / Design Patterns (Intermediate, 3y)
+![Scrum](https://img.shields.io/badge/Scrum_Framework-0052CC?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile_Methodology-34A853?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC_Process-6C757D?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-2C3E50?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Software_Architecture-6A1B9A?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFC107?style=for-the-badge)
 
+
+
+![Experience Chart](experience_chart.png)
 ---
 
-### 👤 Pronouns: He/Him
 
----
 
 ### 🧪 Projects
 
