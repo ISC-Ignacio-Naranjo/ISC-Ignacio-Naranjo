@@ -17,8 +17,8 @@ I'm a passionate backend engineer specializing in Java and Spring Boot, with a s
 ---
 
 
-### 📫 Connect with me 
-[![Resume](https://github.com/ISC-Ignacio-Naranjo/ISC-Ignacio-Naranjo/blob/main/IgnacioNaranjoCV_JavaBackendDev.pdf)
+### 📫 Connect with me  
+[![Resume](https://img.shields.io/badge/Download%20My%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./IgnacioNaranjoCV_JavaBackendDev.pdf)
 
 📧 **Email:** `naranjoguerraji@hotmail.com`  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-naranjo-guerra-40706a144/)
