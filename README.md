@@ -2,7 +2,7 @@
 # Hi 👋, I'm Ignacio Naranjo 
 ### 👤 Pronouns: He/Him
 
-### 💻 Java Backend Engineer | 7+ Years Experience | Cloud-Native Architectures | DevOps Enthusiast | Aspiring Data Scientist
+### 💻 Java Backend Engineer | 8+ Years Experience | Cloud-Native Architectures | DevOps Enthusiast | Aspiring Data Scientist
 
 I'm a passionate backend engineer specializing in Java and Spring Boot, with a strong focus on designing resilient microservices and cloud-native applications. I thrive in agile, multicultural teams and continuously expand my knowledge into data science, automation, and DevOps practices.
 
