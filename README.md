@@ -2,17 +2,20 @@
 # Hi 👋, I'm Ignacio Naranjo 
 ### 👤 Pronouns: He/Him
 
-### 💻 Java Backend Engineer | 8+ Years Experience | Cloud-Native Architectures | DevOps Enthusiast | Aspiring Data Scientist
+### 💻 Senior Java Backend Engineer | Spring Boot, Microservices & Kafka | Azure, Docker, Kubernetes | Applied AI
 
-I'm a passionate backend engineer specializing in Java and Spring Boot, with a strong focus on designing resilient microservices and cloud-native applications. I thrive in agile, multicultural teams and continuously expand my knowledge into data science, automation, and DevOps practices.
+I’m a Software Engineer specialized in Java Backend development with over 9 years of experience delivering scalable and secure microservices for enterprise clients in aviation, banking, and gaming.
 
+I have hands-on experience with Java 8–21, Spring Boot, Kafka, MongoDB, Oracle, Docker, Kubernetes, and CI/CD tools like GitHub Actions and Azure DevOps. I’ve worked with globally distributed teams across the U.S., India, China, and Mexico, collaborating in Agile Scrum environments.
+
+Currently, I’m pursuing a Master’s degree in Applied Artificial Intelligence to expand my expertise in data-driven solutions, machine learning, and computer vision.
 ---
 
 ### 🚀 Currently working on:
 - ⚒️ Improving backend services with **Java 21 + Spring Boot**
 - 🌿 Expanding my **Full Stack** and **Cloud DevOps** skills
 - 🤝 Collaborating in **international agile teams**
-- 📊 Learning and exploring **Data Science** topics including Python, Jupyter, Pandas, scikit-learn, and data analysis techniques
+- 📊 Pursuing a Master’s degree in Applied Artificial Intelligence and exploring **Data Science** topics including Python, Jupyter, Pandas, scikit-learn, and data analysis techniques
 
 ---
 
