@@ -159,7 +159,7 @@ B.S. in Computer Systems Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-ISC--Ignacio--Naranjo-181717?style=for-the-badge)](https://github.com/ISC-Ignacio-Naranjo)
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-B31B1B?style=for-the-badge)](./IgnacioNaranjo_CV_SeniorBackend_AppliedAI)
+[![Resume](https://img.shields.io/badge/Resume-PDF-B31B1B?style=for-the-badge)](./IgnacioNaranjo_CV_SeniorBackend_AppliedAI.pdf)
 
 ---
 
